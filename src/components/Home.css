@@ -1,0 +1,28 @@
+.home-features {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+  }
+  
+  .feature {
+    text-align: center;
+    margin: 0 1rem;
+  }
+  
+  .feature-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 1rem;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .feature-description {
+    font-size: 1rem;
+    color: #555;
+  }
+  
